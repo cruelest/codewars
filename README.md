@@ -1,0 +1,2 @@
+# codewars
+Codewars training tasks
